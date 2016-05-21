@@ -4,4 +4,4 @@ Android app with the goal of being able to calculate, study, and export any kind
 
 > This is a holding place for a yet unreleased project.
 >
-> See its predecessor https://github.com/thomasc1337/loananalyzer.
+> See its predecessor https://github.com/louisbloom/loananalyzer.
